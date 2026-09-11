@@ -51,7 +51,7 @@ vibefy/
     └── covers/           # Album/track cover art
 ```
 
-## 🖼️ Screenshots
+## Screenshots
 
 <img width="1439" height="814" alt="image" src="https://github.com/user-attachments/assets/90298050-0b1e-4508-91e5-f02994b15e19" />
 <img width="1438" height="814" alt="image" src="https://github.com/user-attachments/assets/79ca378f-10f8-4891-917d-505fb9eae5af" />
